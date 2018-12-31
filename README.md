@@ -5,4 +5,4 @@ papers
 
 2. 《Web前端黑客技术揭秘》：https://web2hack.org
 
-3. My blog: http://evilcos.me, U can get more info about me.
+3. My blog: https://evilcos.me, U can get more info about me.
